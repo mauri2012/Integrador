@@ -18,7 +18,7 @@
 }  
 .sizeTema{
    text-align:top;
-   line-height:300%;
+   //line-height:300%;
 }
 .oscurecedor{
   filter:brightness(70%);
